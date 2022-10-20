@@ -1,9 +1,6 @@
-
-
 function App() {
-
   return (
-    <h1>Portafolio</h1>
+    <h1 className="font-bold">Portafolio</h1>
   )
 }
 
